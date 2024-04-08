@@ -1,7 +1,7 @@
 # YSC2229: Libraries and Examples
 
 This project contains the libraries with the implementations of
-algorithms and data structures for the first six weeks of Introductory
+algorithms and data structures for the Yale-NUS College course on Introductory
 Data Structures and Algorithms (YSC2229). The lecture notes for the
 course are available at
 
