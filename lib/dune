@@ -1,0 +1,11 @@
+(library
+  (name ysc2229)
+  (inline_tests)                
+  (public_name ysc2229)
+  (preprocess (pps ppx_inline_test ppx_expect))
+  (wrapped false)
+  (libraries core batteries graphics)
+  (synopsis "Libraries and examples for YSC2229"))
+
+(env
+ (release (inline_tests enabled)))

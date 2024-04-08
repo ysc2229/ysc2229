@@ -1,0 +1,6 @@
+(executables
+ (names compress_text decompress_text demo)
+  (public_names compress decompress demo)
+  (modules compress_text decompress_text demo)
+  (libraries ysc2229)
+  (package ysc2229))
